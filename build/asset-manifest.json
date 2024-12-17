@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4581a2de.css",
+    "main.js": "/static/js/main.07e0e48b.js",
+    "static/media/mainhead.jpg": "/static/media/mainhead.22f1c9ddc52d2ec158b3.jpg",
+    "static/media/fawei.jpg": "/static/media/fawei.93bf21ae11fafaee1abc.jpg",
+    "static/media/peace.jpg": "/static/media/peace.8f2e9c81aac0eb860280.jpg",
+    "static/media/praise.jpg": "/static/media/praise.98447190b8529206d337.jpg",
+    "static/media/francis.jpg": "/static/media/francis.9d2f4008b90fed7bc603.jpg",
+    "static/media/Pavillia.jpg": "/static/media/Pavillia.0b4c32ca8d0cafbe85ff.jpg",
+    "static/media/litigation.jpg": "/static/media/litigation.0c343fc57bc8189a0b33.jpg",
+    "static/media/header.jpg": "/static/media/header.87b32b66242c387a993f.jpg",
+    "static/media/logo.png": "/static/media/logo.c9c58579ea6d5e6144c1.png",
+    "static/media/allison.jpeg": "/static/media/allison.80af91c3fbe6b7e07f0e.jpeg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/square-instagram.svg": "/static/media/square-instagram.839950c061cea9b1c050280f5c98c238.svg",
+    "index.html": "/index.html",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/square-twitter.svg": "/static/media/square-twitter.c552b6a2c60971895f39374f4f9f0086.svg",
+    "static/media/box-open-solid.svg": "/static/media/box-open-solid.c43967cc75c544b93c3d25d7edd05df8.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.9b19c90165fd4b26424e984b1afcc8cc.svg",
+    "static/media/chalkboard-user-solid.svg": "/static/media/chalkboard-user-solid.477f6a453d1f44d8e47b7f0f9178dc61.svg",
+    "static/media/door-open-solid.svg": "/static/media/door-open-solid.839bd6c45bba92866c8e41cb946dba80.svg",
+    "static/media/gem-regular.svg": "/static/media/gem-regular.6174bdf5b333d365df77b64390bf283e.svg",
+    "static/media/phone-solid.svg": "/static/media/phone-solid.ff5b531a51c27aeba255af4ec839f90b.svg",
+    "static/media/envelope-solid.svg": "/static/media/envelope-solid.91d4f7e2d68e38b5d0508f4320122f57.svg",
+    "static/media/square-facebook.svg": "/static/media/square-facebook.86fc3e54f5944af14b968aa926b6f883.svg",
+    "static/media/location-dot-solid.svg": "/static/media/location-dot-solid.ca92a6d9f85280c4a896969c96595986.svg",
+    "main.4581a2de.css.map": "/static/css/main.4581a2de.css.map",
+    "main.07e0e48b.js.map": "/static/js/main.07e0e48b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4581a2de.css",
+    "static/js/main.07e0e48b.js"
+  ]
+}
